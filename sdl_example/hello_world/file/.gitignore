@@ -1,0 +1,4 @@
+# Ignore the development folder
+hello_world/
+# Ignore tar files
+*.tar
