@@ -1,6 +1,6 @@
 { 
 	"list":[
-		{"type": "launcher", "title": "Hello World", 
+		{"type": "launcher", "title": "hello_world", 
 		"file": "https://raw.githubusercontent.com/crolando/cw/master/sdl_example/hello_world/file/hello_world.tar.gz",
 		"shots": "https://raw.githubusercontent.com/crolando/cw/master/sdl_example/hello_world/shots/hello_world.png"
 		}
